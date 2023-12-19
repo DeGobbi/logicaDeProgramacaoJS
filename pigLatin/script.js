@@ -7,4 +7,4 @@ function pigIt(str){
     return str.join(' ')
   }
 
-  console.log(pigIt('Pig Latin is cool . ! @'))
+  console.log(pigIt('Pig Latin is cool . ! @')) // igPay atinLay siay oolcay
