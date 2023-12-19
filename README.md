@@ -1,5 +1,5 @@
 # logicaDeProgramacao
-Todos os exercícios feitos com JavaScript para a lógica de programação estão aqui.
+Todos os exercícios feitos no CodeWars com JavaScript para a lógica de programação estão aqui.
 
 Exercícios feitos:
 - Verificar números narcisistas
