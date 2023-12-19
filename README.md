@@ -8,3 +8,4 @@ Exercícios feitos:
 - Verificar se um número é primo
 - Verificar se uma string tem a ordem de parênteses, colchetes e chaves na sequência certa
 - Separar uma string em pares, e colocar um "_" na última letra se ela tiver um tamanho ímpar
+- PigLatin: colocar a primeira letra da palavra em último e concatenar "ya" a palavra
